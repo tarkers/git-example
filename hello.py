@@ -1,2 +1,3 @@
-printf('hello world')
+print('hello world')
+print('new to the github')
 
