@@ -1,2 +1,2 @@
-printf('hello python &git')
+printf('hello world')
 
